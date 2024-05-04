@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis
-Ifsiyana Rizki Utami
+# Exploratory Data Analysis (EDA)
+
