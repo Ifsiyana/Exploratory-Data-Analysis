@@ -10,7 +10,7 @@ untuk mendowloand data silahkan akses [link berikut](https://drive.google.com/dr
 - Negara Singapura merupakan satu satunya negara dari ASEAN yang menjadi negara dengan tingkat GDP tertinggi di dunia dan menduduki peringkat ke-2.
 
 ## 10 Negara dengan Tingkat Persepsi Korupsi tertinggi (paling dipercaya tidak melakukan korupsi)
-<img src="https://github.com/https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/Gambar Top 10 Persepsi Korupsi.png">
+<img src="https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/Gambar Top 10 Persepsi Korupsi.png">
 
 ### Insight
 - Singapura menduduki peringkat pertama negara yang memiliki persepsi akan korupsi tertinggi, artinya Negara singapura dipercaya tidak melakukan korupsi. 
