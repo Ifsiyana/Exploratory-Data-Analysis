@@ -25,3 +25,17 @@ untuk mendowloand data silahkan akses [link berikut](https://drive.google.com/dr
 - Malaysia dan Thailand memiliki nilai GDP per capita di atas garis tengah (median) GDP per capita dunia.
 - Cambodia menduduki posisi paling bawah di ASEAN ditinjau dari aspek GDP per capita. 
 - Nilai GDP per capita cukup merepresentasikan kemakmuran suatu negara ditinjau dari sisi ekonomi.
+
+## Hubungan GDP per capita dengan faktor-faktor lainnya
+<img src="https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/korelasi gdp dengan var lain.png">
+
+### Insight
+- Berdasarkan chart diatas, dapat dilihat bahwa GDP per capita memiliki hubungan yang sangat kuat dengan Healthy life expectation, namun tidak memiliki hubungan dengan generosity. Kesimpulannya, data menunjukkan bahwa kesejahteraan ekonomi suatu negara cenderung berkorelasi kuat dengan harapan hidup yang sehat, tetapi tidak memiliki hubungan yang signifikan dengan tingkat kedermawanan masyarakat. Hal ini menyoroti kompleksitas faktor-faktor yang mempengaruhi berbagai aspek kehidupan di suatu negara.
+
+## Hubungan GDP per capita dengan faktor-faktor lainnya
+<img src="https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/Persepsi korupsi.png">
+
+### Insight
+- Indonesia menduduki peringkat ke-2 terendah di ASEAN ditinjau dari aspek persepsi korupsi. Hal tersebut menunjukkan bahwa Indonesia dinilai sebagai negara yang memiliki masalah korupsi yang serius (terindikasi melakukan korupsi).
+- Singapura menduduki peringkat teratas di ASEAN dan dunia ditinjau dari aspek korupsi. Hal tersebut menunjukkan bahwa Singapura dinilai sebagai negara yang bersih dari korupsi. 
+- Berdasarkan gambar diatas dapat dilihat bahwa negara dengan tingkat GDP yang tinggi memiliki tingkat persepsi mengenai korupsi yang tinggi (semakin tinggi persepsi korupsi semakin besar kepercayaan masyarakat terhadap tidak adanya korupsi). Namun, hal tersebut tidak berlaku di 2 negara yaitu Thailand dan Indonesia. Sehingga sesuai dengan hubungan antara GDP per capita dengan Perception of coruption yang memiliki korelasi sedang (tidak cukup kuat) untuk merepresentasikan hubungan keduanya.
