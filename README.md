@@ -15,3 +15,13 @@ untuk mendowloand data silahkan akses [link berikut](https://drive.google.com/dr
 ### Insight
 - Singapura menduduki peringkat pertama negara yang memiliki persepsi akan korupsi tertinggi, artinya Negara singapura dipercaya tidak melakukan korupsi. 
 - Beberapa negara yang memiliki GDP tertinggi juga masuk dalam tingkat persepsi korupsi tertinggi, sehingga dapat dikatakan bahwa negara seperti Singapura, Norway, Netherlands, Switzerland, Denmark, dan Ireland masuk dalam negara makmur.
+
+## Indonesia di ASEAN 
+<img src="https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/Indonesia di ASEAN.png">
+
+### Insight
+- Indonesia menduduki posisi ke-4 tertinggi di ASEAN ditinjau dari aspek GDP per capita, namun masih berada dibawah garis tengah nilai GDP per capita dunia.
+- Singapura masih menduduki posisi teratas di ASEAN dan termasuk dalam 5 besar di dunia ditinjau dari aspek GDP per capita dengan nilai GDP per capita jauh diatas negara-negara ASEAN lainnya. Dan Singapura di representasikan menjadi negara paling makmur di ASEAN.
+- Malaysia dan Thailand memiliki nilai GDP per capita di atas garis tengah (median) GDP per capita dunia.
+- Cambodia menduduki posisi paling bawah di ASEAN ditinjau dari aspek GDP per capita. 
+- Nilai GDP per capita cukup merepresentasikan kemakmuran suatu negara ditinjau dari sisi ekonomi.
