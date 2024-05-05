@@ -32,7 +32,7 @@ untuk mendowloand data silahkan akses [link berikut](https://drive.google.com/dr
 ### Insight
 - Berdasarkan chart diatas, dapat dilihat bahwa GDP per capita memiliki hubungan yang sangat kuat dengan Healthy life expectation, namun tidak memiliki hubungan dengan generosity. Kesimpulannya, data menunjukkan bahwa kesejahteraan ekonomi suatu negara cenderung berkorelasi kuat dengan harapan hidup yang sehat, tetapi tidak memiliki hubungan yang signifikan dengan tingkat kedermawanan masyarakat. Hal ini menyoroti kompleksitas faktor-faktor yang mempengaruhi berbagai aspek kehidupan di suatu negara.
 
-## Hubungan GDP per capita dengan faktor-faktor lainnya
+## Seberapa Besar Persepsi Korupsi Negara di ASEAN?
 <img src="https://github.com/Ifsiyana/Exploratory-Data-Analysis/blob/main/Persepsi korupsi.png">
 
 ### Insight
